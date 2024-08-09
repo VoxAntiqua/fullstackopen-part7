@@ -1,0 +1,12 @@
+[submodule "Blog-List-Frontend"]
+	path = Blog-List-Frontend
+	url = https://github.com/VoxAntiqua/Blog-List-Frontend.git
+[submodule "routed-anecdotes"]
+	path = routed-anecdotes
+	url = https://github.com/VoxAntiqua/routed-anecdotes.git
+[submodule "country-hook"]
+	path = country-hook
+	url = https://github.com/VoxAntiqua/country-hook.git
+[submodule "ultimate-hooks"]
+	path = ultimate-hooks
+	url = https://github.com/VoxAntiqua/ultimate-hooks.git
